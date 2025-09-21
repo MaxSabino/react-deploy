@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <h1>Hellow Word!!!</h1>
-      <h2>Netlify Teste Deploy</h2>
+      <h2>Netlify Teste Deploy 21/09/25</h2>
       <div>
         <h3>{count}</h3>
         <button onClick={() => setCount((prev) => prev + 1)}>INCREMENT</button>
