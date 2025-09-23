@@ -16,7 +16,7 @@ function App() {
         <button onClick={() => setCount((prev) => prev + 1)}>INCREMENT</button>
       </div>
       <div>
-        <img width={tmw} src={logo} />
+        <img width={tmw} src={logo} alt="Logo da empresa!" />
       </div>
     </>
   );
